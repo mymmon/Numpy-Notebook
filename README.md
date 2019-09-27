@@ -1,4 +1,4 @@
-<div align=center><img src='https://github.com/mymmon/numpy-notebook/blob/master/_Pic/%E5%AF%BF%E5%8F%B8.pngs' /></div>
+<div align=center><img src='https://github.com/mymmon/statistics-notebook/blob/master/_Pic/%E5%B8%83%E4%B8%81.png' /></div>
 
 # Sushi
 
